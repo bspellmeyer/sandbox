@@ -1,0 +1,13 @@
+{
+    "name": "bspellmeyer/sandbox",
+    "type": "project",
+    "license": "gpl-2",
+    "authors": [
+        {
+            "name": "Benedikt Spellmeyer",
+            "email": "benedikt.spellmeyer@even-on-sunday.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
